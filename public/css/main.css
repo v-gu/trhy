@@ -1,0 +1,13 @@
+.item-list {
+    margin-top: 3px;
+    /* padding-left: 20px; */
+    font-size: 11px;
+    line-height: 20px;
+    cursor: pointer;
+    /* background: url(images/rss.gif) no-repeat 0 2px; */
+    border: 1px solid #fff;
+}
+
+.item-list-hover {
+    background-color: #eee;
+}
