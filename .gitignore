@@ -1,0 +1,9 @@
+# ignore emacs tmp files
+**/.#*
+
+# ignore extjs built files
+extjs/build/
+
+test-results/
+tmp/
+routes/
