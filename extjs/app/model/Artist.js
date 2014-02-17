@@ -1,4 +1,4 @@
-Ext.define('Inventory.model.Artist', {
+Ext.define('trhy.model.Artist', {
     extend: 'Ext.data.Model',
     
     idProperty: 'Id',

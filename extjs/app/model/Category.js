@@ -1,4 +1,4 @@
-Ext.define('Inventory.model.Category', {
+Ext.define('trhy.model.Category', {
     extend: 'Ext.data.Model',
     
     fields: [

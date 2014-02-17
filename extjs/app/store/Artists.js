@@ -1,10 +1,10 @@
-Ext.define('Inventory.store.Artists', {
+Ext.define('trhy.store.Artists', {
     extend: 'Ext.data.Store',
     requires: [
-        'Inventory.model.Artist',
+        'trhy.model.Artist',
         'Ext.window.MessageBox'
     ],
-    model: 'Inventory.model.Artist',
+    model: 'trhy.model.Artist',
 
     proxy: {
         type: 'ajax',

@@ -1,4 +1,4 @@
-Ext.define('Inventory.view.Viewport', {
+Ext.define('trhy.view.Viewport', {
     extend: 'Ext.container.Viewport',
 
     layout: 'border',

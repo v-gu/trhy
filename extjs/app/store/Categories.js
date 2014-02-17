@@ -1,8 +1,8 @@
-Ext.define('Inventory.store.Categories', {
+Ext.define('trhy.store.Categories', {
     extend: 'Ext.data.Store',
-    requires: ['Inventory.model.Category'],
+    requires: ['trhy.model.Category'],
 
-    model: 'Inventory.model.Category',
+    model: 'trhy.model.Category',
 
     data: [
         {id: 'artists', name: '艺术家', url: 'http://sencha.com/forum/external.php?type=RSS2'},

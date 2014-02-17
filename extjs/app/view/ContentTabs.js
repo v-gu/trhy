@@ -1,4 +1,4 @@
-Ext.define('Inventory.view.ContentTabs', {
+Ext.define('trhy.view.ContentTabs', {
     extend: 'Ext.tab.Panel',
     xtype: 'contenttabs',
 

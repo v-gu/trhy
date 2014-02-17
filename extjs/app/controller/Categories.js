@@ -1,4 +1,4 @@
-Ext.define('Inventory.controller.Categories', {
+Ext.define('trhy.controller.Categories', {
     extend: 'Ext.app.Controller',
 
     stores: [

@@ -1,4 +1,4 @@
-Ext.define('Inventory.view.contents.ArtistsPanel', {
+Ext.define('trhy.view.contents.ArtistsPanel', {
     extend: 'Ext.grid.Panel',
     requires: [
         'Ext.ux.grid.FiltersFeature',

@@ -1,4 +1,4 @@
-Ext.define('Inventory.view.CategoryBar', {
+Ext.define('trhy.view.CategoryBar', {
     extend: 'Ext.panel.Panel',
     xtype: 'categorybar',
 
